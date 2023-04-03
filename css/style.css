@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+  }
+  .wrapper {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .block-1 {
+    padding: 25px;
+    border: 5px solid rgb(237, 164, 255);
+  }
+  
+  .block-2 {
+    padding: 25px;
+    border: 5px solid rgb(164, 219, 255);
+  }
+  
+  li{
+    list-style: none;
+  }
